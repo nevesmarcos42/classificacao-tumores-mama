@@ -39,7 +39,7 @@ O objetivo deste projeto é construir um modelo robusto e preciso capaz de ident
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/classificacao-tumores-mama.git
+   git clone https://github.com/nevesmarcos42/classificacao-tumores-mama.git
 
 2. Instale as dependências:
    pip install -r requirements.txt
